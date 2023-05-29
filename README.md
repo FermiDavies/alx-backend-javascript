@@ -1,2 +1,1 @@
-<h1>alx-backend-javascript</h1
-
+<h1 align="center">BACK-END JAVASCRIPT</h1>
